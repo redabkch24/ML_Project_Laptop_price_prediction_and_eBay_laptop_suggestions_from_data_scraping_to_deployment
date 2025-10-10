@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style_suggest.css') }}">
+    <title>Closest Price Suggestions</title>
+</head>
+<body>
+    <div class="btn">
+        <form action="{{ url_for('home') }}">
+            <input type="submit" value="Home" class="btns">
+        </form>
+        <form action="{{ url_for('predict') }}">
+            <input type="submit" value="Price Predict" class="btns">
+        </form>
+    </div>
+    <h1>Discover the laptops that perfectly match your budget!</h1>
+    <div id="c-form">
+       <form method="POST" action="/suggest" id="main-form">
+          <label for="price">Enter Your Desired Price:</label>
+          <br>
+          <input type="text" id="price" name="price" required>
+          <br>
+          <button type="submit">Find the laptops</button>
+        </form>
+    </div>
+    {% if laptops %}
+    <h2>Suggestions :</h2>
+    <div class="container">
+        {% for laptop in laptops %}
+        <div class="laptop">
+            <img src="{{ laptop.images }}" alt="{{ laptop.title }}">
+            <h3>{{ laptop.title }}</h3>
+            <p>Price : {{ laptop.price }}$</p>
+            <a href="{{ laptop.links }}" target="_blank">View on eBay</a>
+        </div>
+        {% endfor %}
+    </div>
+    {% else %}
+    <p>No suggestions at the moment. Enter a budget to get started!</p>
+    {% endif %}
+</body>
+</html>

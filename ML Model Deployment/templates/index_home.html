@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style_home.css') }}">
+</head>
+<body>
+  <div class="video-container">
+    <video autoplay loop plays-inline>
+        <source src="{{ url_for('static', filename='video_back.mp4') }}" type="video/mp4">
+    </video>
+    <div class="overplay">
+        <h1>Welcome to the Laptop Price Prediction Site</h1>
+        <div class="btn">
+           <form action="{{ url_for('predict') }}">
+              <input type="submit" value="Price Prediction">
+           </form>
+           <form action="{{ url_for('suggest') }}">
+              <input type="submit"  value="Closest Price Suggestions">
+           </form>
+        </div>
+    </div>
+  </div>
+</body>
+</html>

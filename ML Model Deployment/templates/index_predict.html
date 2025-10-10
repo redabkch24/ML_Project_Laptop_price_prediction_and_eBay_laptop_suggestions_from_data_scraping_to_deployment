@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style_predict.css') }}">
+    <title>LAPTOP PRICE PREDICTION</title>
+</head>
+<body>
+    <div class="btn">
+        <form action="{{ url_for('home') }}">
+            <input type="submit" value="Home" class="btns">
+        </form>
+        <form action="{{ url_for('suggest') }}">
+            <input type="submit" value="Closest Price Suggestions" class="btns">
+        </form>
+    </div>
+    <div class="container">
+        <form action="{{ url_for('predict') }}" method="POST" id="form">
+          <div class="title">Discover Your Future Laptop Price</div>
+          <div class="input">
+            <div class="input-box">
+                <span class="ve">Brand</span>
+                <select name="brand">
+                    <option value="3">DELL</option>
+                    <option value="0">ACER</option>
+                    <option value="4">HP</option>
+                    <option value="5">Lenovo</option>
+                    <option value="2">ASUS</option>
+                    <option value="7">Panasonic</option>
+                    <option value="8">Samsung</option>
+                    <option value="6">MSI</option>
+                    <option value="1">Alienware</option>
+                </select>
+            </div>
+            <div class="input-box">
+                <span class="ve">RAM Memory (Go)</span>
+                <input type="text" name="ram" required>
+            </div>
+            <div class="input-box">
+                <span class="ve">Storage HDD (Go)</span>
+                <input type="text" name="hdd" required>
+            </div>
+            <div class="input-box">
+                <span class="ve">Storage SSD (Go)</span>
+                <input type="text" name="ssd" required>
+            </div>
+            <div class="input-box">
+                <span class="ve">Cpu Speed (GHz)</span>
+                <input type="text" name="cpu" required>
+            </div>
+            <div class="input-box">
+                <span class="ve">Screen Size (Inches)</span>
+                <input type="text" name="ss" required>
+            </div>
+            <div class="input-box">
+                <span class="ve">Operating System</span>
+                <select name="os" required>
+                    <option value="2">Windows 11</option>
+                    <option value="1">Windows 10</option>
+                    <option value="4">Windows 8</option>
+                    <option value="3">Windows 7</option>
+                    <option value="0">ChromeOS</option>
+                </select>
+            </div>
+            <div class="input-box">
+                <span class="ve">Graphics Processing Unit</span>
+                <select name="gpu" required>
+                    <option value="2">Intel</option>
+                    <option value="6">Qualcomm</option>
+                    <option value="0">Amd</option>
+                    <option value="4">Nvidia</option>
+                    <option value="3">Mediatek</option>
+                    <option value="1">Ati</option>
+                    <option value="5">Powervr</option>
+                </select>
+            </div>
+            <div class="input-box">
+                <span class="ve">Condition</span>
+                <select name="condition" required>
+                    <option value="4">New</option>
+                    <option value="1">Excellent - Refurbished</option>
+                    <option value="7">Very Good - Refurbished</option>
+                    <option value="3">Good - Refurbished</option>
+                    <option value="0">Certified - Refurbished</option>
+                    <option value="5">Open Box</option>
+                    <option value="6">Used</option>
+                    <option value="2">for parts or not working</option>
+                </select>
+            </div>
+            <input type="submit" value="Predict">
+            <div></div>
+          </div>
+        </form>
+    </div>
+    <div class="div-predict">
+        {% if val_predict %}
+            <p>Predicted Price: <br> <span id="res">{{ val_predict[0] }}</span>$</p>
+        {% endif %}
+    </div>
+</body>
+</html>

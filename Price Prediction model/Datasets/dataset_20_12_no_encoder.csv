@@ -1,0 +1,359 @@
+,brand,ram,storage_ssd,storage_hdd,storage_type,cpu_brand,cpu_speed,etat,os,screen_size,gpu,current_price,storage
+0,asus,16,1024,1024,ssd,amd,2.0,new,windows 8,16.0,amd,229.99,2048
+1,lenovo,32,2048,4096,ssd,intel,4.2,open box,windows 11,15.6,intel,249.99,6144
+2,asus,8,512,512,ssd,amd,2.1,used,windows 10,15.6,amd,170.0,1024
+3,lenovo,12,512,0,ssd,intel,3.0,open box,windows 10,17.3,intel,200.5,512
+4,lenovo,8,256,256,ssd,intel,1.2,open box,windows 11,14.0,intel,199.99,512
+6,lenovo,8,512,512,ssd,intel,2.5,open box,windows 10,12.5,intel,127.51,1024
+7,lenovo,4,64,64,emmc,intel,1.6,very good - refurbished,windows 10,11.6,intel,89.99,128
+8,lenovo,16,512,0,ssd,intel,1.9,good - refurbished,windows 10,14.0,intel,225.0,512
+9,dell,4,32,32,ssd,intel,2.6,very good - refurbished,chrome os,11.6,intel,89.99,64
+10,lenovo,16,1024,1024,ssd,intel,1.6,very good - refurbished,windows 11,14.0,intel,279.95,2048
+11,lenovo,8,256,256,ssd,qualcomm,2.84,open box,windows 10,14.0,qualcomm,239.99,512
+12,hp,4,128,128,ssd,intel,2.6,open box,windows 11,17.3,intel,297.56,256
+13,hp,16,512,512,ssd,intel,1.9,new,windows 11,15.6,nvidia,648.95,1024
+14,dell,32,500,500,ssd,intel,1.9,open box,windows 11,14.0,intel,299.99,1000
+15,dell,8,500,500,hdd,intel,2.4,excellent - refurbished,windows 11,14.0,intel,169.99,1000
+16,dell,16,512,512,ssd,intel,2.4,open box,windows 11,14.0,intel,189.46,1024
+17,dell,16,512,512,ssd,intel,1.7,open box,windows 11,14.0,intel,199.98,1024
+18,lenovo,16,500,500,ssd,intel,1.7,excellent - refurbished,windows 11,14.0,intel,237.99,1000
+19,hp,4,500,0,ssd,intel,2.6,good - refurbished,windows 10,15.6,intel,89.99,500
+21,dell,16,256,256,ssd,intel,2.6,good - refurbished,windows 10,12.5,intel,199.99,512
+22,hp,16,512,500,ssd,intel,4.4,open box,windows 11,14.0,intel,249.99,1012
+23,hp,4,128,128,ssd,intel,2.8,good - refurbished,windows 10,11.6,intel,89.99,256
+25,dell,16,256,256,ssd,intel,1.9,very good - refurbished,windows 11,13.0,intel,209.99,512
+26,dell,16,256,256,ssd,intel,1.6,excellent - refurbished,windows 11,14.0,intel,197.56,512
+27,lenovo,16,512,512,ssd,amd,2.1,open box,windows 11,14.0,amd,289.0,1024
+28,dell,16,500,500,ssd,intel,1.9,open box,windows 11,14.0,intel,279.99,1000
+29,lenovo,4,16,16,emmc,intel,1.6,very good - refurbished,chrome os,11.6,intel,79.99,32
+30,hp,16,512,512,ssd,intel,4.6,new,windows 11,15.6,nvidia,649.99,1024
+31,dell,8,256,256,hdd,intel,1.6,good - refurbished,windows 11,14.1,intel,159.0,512
+32,lenovo,16,256,256,ssd,intel,1.8,good - refurbished,windows 11,13.0,intel,349.99,512
+33,hp,16,256,256,ssd,intel,1.7,new,windows 10,14.0,intel,439.0,512
+34,asus,8,256,256,ssd,intel,4.1,certified - refurbished,windows 11,14.0,intel,194.0,512
+35,lenovo,8,256,256,ssd,intel,1.3,new,windows 11,15.6,intel,329.99,512
+36,hp,4,64,64,emmc,amd,1.2,very good - refurbished,windows 10,14.0,amd,95.0,128
+37,hp,4,16,16,emmc,intel,1.6,good - refurbished,chrome os,11.6,intel,69.99,32
+38,dell,8,256,256,ssd,intel,2.3,very good - refurbished,windows 10,12.5,intel,159.99,512
+39,hp,8,256,16,ssd,intel,2.3,good - refurbished,windows 10,15.6,intel,184.95,272
+40,dell,8,256,256,ssd,intel,1.7,good - refurbished,windows 11,14.1,intel,199.0,512
+41,hp,16,512,512,ssd,intel,2.5,very good - refurbished,windows 10,14.0,intel,179.95,1024
+42,hp,16,512,512,ssd,amd,4.0,very good - refurbished,windows 10,15.6,amd,296.67,1024
+44,asus,4,64,64,emmc,intel,1.1,certified - refurbished,chrome os,14.0,intel,85.0,128
+45,lenovo,4,32,32,emmc,mediatek,2.1,open box,chrome os,11.6,intel,99.99,64
+46,dell,32,1024,1024,ssd,intel,4.2,very good - refurbished,windows 11,15.6,nvidia,645.0,2048
+47,panasonic,16,512,512,ssd,intel,2.6,used,windows 11,12.0,intel,425.0,1024
+48,lenovo,32,1024,1024,ssd,intel,5.0,open box,windows 11,16.0,nvidia,899.0,2048
+49,dell,32,1024,1024,ssd,intel,4.2,very good - refurbished,windows 11,14.0,intel,465.0,2048
+50,lenovo,32,512,512,ssd,intel,4.8,certified - refurbished,windows 11,14.0,intel,869.0,1024
+51,lenovo,16,256,256,ssd,amd,2.8,new,windows 11,15.0,amd,359.0,512
+52,hp,8,256,256,ssd,intel,2.0,certified - refurbished,windows 11,14.0,intel,208.0,512
+54,dell,16,512,512,ssd,amd,2.0,open box,windows 11,15.6,amd,295.0,1024
+55,asus,16,1024,1024,ssd,amd,2.0,certified - refurbished,windows 11,17.3,amd,432.0,2048
+56,hp,16,512,512,ssd,intel,1.6,very good - refurbished,windows 11,13.3,intel,289.0,1024
+57,panasonic,8,512,512,ssd,intel,2.7,excellent - refurbished,windows 11,10.1,intel,625.0,1024
+59,dell,16,512,512,ssd,intel,1.9,excellent - refurbished,windows 11,14.0,intel,254.99,1024
+60,lenovo,32,512,512,ssd,intel,1.9,excellent - refurbished,windows 11,15.6,nvidia,389.99,1024
+61,dell,16,512,512,ssd,intel,2.8,open box,windows 11,14.0,intel,212.12,1024
+62,hp,4,64,64,emmc,intel,1.1,certified - refurbished,windows 11,14.0,intel,121.0,128
+63,dell,16,512,512,ssd,intel,1.8,excellent - refurbished,windows 11,13.0,intel,289.99,1024
+64,dell,16,512,512,ssd,intel,1.9,open box,windows 11,14.0,amd,449.0,1024
+65,samsung,4,128,128,ssd,qualcomm,2.55,open box,windows 11,14.0,qualcomm,129.0,256
+66,dell,32,512,512,ssd,intel,2.7,very good - refurbished,windows 11,15.6,nvidia,519.99,1024
+67,lenovo,20,512,512,ssd,intel,2.4,excellent - refurbished,windows 11,14.0,intel,199.99,1024
+68,panasonic,8,256,256,ssd,intel,2.0,used,windows 10,10.0,intel,148.99,512
+70,dell,16,512,512,ssd,intel,2.0,new,windows 11,15.6,intel,399.0,1024
+71,lenovo,8,256,256,nvme,intel,1.6,used,windows 11,13.3,intel,174.99,512
+72,lenovo,16,512,512,ssd,qualcomm,3.0,open box,windows 11,13.0,qualcomm,459.99,1024
+74,dell,32,1024,0,ssd,intel,2.4,open box,windows 11,14.0,intel,322.15,1024
+75,hp,8,256,256,ssd,intel,1.3,certified - refurbished,windows 11,15.6,intel,279.0,512
+76,lenovo,16,500,500,ssd,intel,1.7,excellent - refurbished,windows 11,14.0,intel,234.99,1000
+77,hp,4,128,128,ufs,intel,1.8,certified - refurbished,windows 11,15.6,intel,234.13,256
+78,hp,32,512,1024,hdd,intel,5.1,new,windows 11,15.6,nvidia,603.57,1536
+79,dell,16,256,256,ssd,intel,1.9,excellent - refurbished,windows 11,14.0,intel,249.99,512
+80,dell,64,1024,1024,ssd,intel,4.2,very good - refurbished,windows 11,15.6,nvidia,549.99,2048
+81,hp,16,1024,0,ssd,intel,2.3,good - refurbished,windows 10,15.6,intel,249.99,1024
+82,dell,32,1024,1024,ssd,intel,5.0,new,windows 11,15.6,intel,549.0,2048
+83,panasonic,8,512,512,ssd,intel,2.7,very good - refurbished,windows 11,10.1,intel,338.0,1024
+84,lenovo,32,1024,1024,ssd,intel,1.9,excellent - refurbished,windows 11,14.0,intel,399.99,2048
+85,lenovo,4,16,16,emmc,intel,1.6,good - refurbished,chrome os,11.6,intel,79.99,32
+86,hp,4,128,128,ufs,intel,3.7,new,chrome os,14.0,intel,169.99,256
+87,hp,16,512,512,ssd,intel,4.4,open box,windows 11,15.6,intel,249.0,1024
+88,lenovo,12,512,512,ssd,intel,2.8,good - refurbished,windows 11,14.0,intel,315.99,1024
+90,hp,16,512,512,ssd,intel,4.6,new,windows 11,15.6,nvidia,638.88,1024
+91,lenovo,12,512,512,ssd,intel,2.4,excellent - refurbished,windows 11,14.0,intel,219.99,1024
+92,hp,4,32,32,emmc,intel,1.1,new,chrome os,14.0,intel,149.95,64
+93,lenovo,4,32,32,emmc,intel,1.1,open box,chrome os,11.6,intel,16.5,64
+94,hp,16,512,512,ssd,intel,4.4,new,windows 11,15.6,nvidia,557.07,1024
+95,hp,8,512,512,ssd,intel,4.4,new,windows 11,15.6,nvidia,529.17,1024
+96,hp,32,512,1024,hdd,intel,5.1,new,windows 10,15.6,nvidia,603.57,1536
+97,dell,16,256,256,ssd,intel,1.7,good - refurbished,windows 11,14.0,intel,370.49,512
+98,dell,8,256,256,ssd,intel,3.3,very good - refurbished,chrome os,14.0,intel,199.99,512
+99,lenovo,4,16,16,emmc,intel,1.6,good - refurbished,chrome os,11.6,intel,69.99,32
+100,lenovo,16,512,512,ssd,intel,2.3,excellent - refurbished,windows 11,15.0,nvidia,485.99,1024
+101,lenovo,16,512,512,ssd,amd,3.2,excellent - refurbished,windows 11,14.0,amd,675.99,1024
+102,lenovo,8,256,256,ssd,amd,2.3,very good - refurbished,windows 11,14.0,amd,265.99,512
+103,lenovo,16,512,512,ssd,amd,2.0,certified - refurbished,windows 11,15.6,amd,329.0,1024
+104,lenovo,16,256,256,ssd,intel,1.8,excellent - refurbished,windows 11,13.0,intel,419.99,512
+105,lenovo,16,1024,1024,ssd,intel,1.7,new,windows 11,16.0,intel,611.99,2048
+106,hp,4,128,128,ssd,intel,2.6,open box,windows 11,17.3,intel,287.77,256
+107,lenovo,16,256,256,ssd,intel,2.6,good - refurbished,windows 10,15.6,nvidia,429.99,512
+108,hp,8,512,512,ssd,intel,2.0,new,windows 11,15.6,nvidia,569.99,1024
+110,dell,16,500,500,ssd,intel,2.4,excellent - refurbished,windows 11,15.6,intel,239.99,1000
+111,hp,16,512,512,ssd,intel,4.7,new,windows 11,15.6,intel,575.74,1024
+112,dell,32,1024,1024,ssd,intel,4.2,very good - refurbished,windows 11,14.0,intel,489.99,2048
+113,dell,16,1024,1024,ssd,intel,2.3,open box,windows 11,14.0,intel,279.47,2048
+114,dell,16,512,512,ssd,intel,2.6,open box,windows 11,14.0,intel,256.98,1024
+115,hp,4,128,128,ssd,intel,1.1,new,windows 10,15.6,intel,239.95,256
+116,asus,16,512,512,ssd,amd,2.3,very good - refurbished,windows 11,15.0,nvidia,449.99,1024
+118,hp,16,1024,35,ssd,intel,2.3,new,windows 11,16.0,nvidia,510.0,1059
+119,dell,32,1024,1024,ssd,intel,1.9,excellent - refurbished,windows 11,14.0,intel,359.99,2048
+120,lenovo,4,32,32,emmc,mediatek,2.1,good - refurbished,chrome os,11.6,intel,59.99,64
+121,dell,32,1024,1024,ssd,intel,4.8,used,windows 11,14.0,intel,255.0,2048
+122,dell,16,512,512,ssd,intel,1.7,excellent - refurbished,windows 11,14.0,intel,199.99,1024
+123,lenovo,16,1024,1024,ssd,intel,4.8,excellent - refurbished,windows 11,14.0,intel,399.99,2048
+124,hp,4,32,32,emmc,amd,1.6,new,chrome os,14.0,amd,149.0,64
+125,dell,8,512,512,ssd,intel,2.0,very good - refurbished,windows 10,14.0,intel,273.0,1024
+126,dell,32,1024,1024,ssd,intel,1.9,excellent - refurbished,windows 11,14.0,intel,329.99,2048
+127,hp,8,512,512,ssd,amd,1.8,new,windows 11,15.6,amd,428.95,1024
+128,hp,32,1024,512,ssd,amd,4.5,new,windows 11,15.6,amd,594.27,1536
+129,hp,4,64,64,emmc,intel,1.1,certified - refurbished,windows 10,14.0,intel,139.99,128
+130,hp,4,320,320,hdd,amd,2.2,used,windows 7,14.1,ati,44.95,640
+131,hp,4,64,64,emmc,intel,1.1,open box,chrome os,14.0,intel,129.99,128
+132,lenovo,8,256,256,ssd,intel,1.3,open box,windows 11,15.6,intel,319.99,512
+133,lenovo,4,128,128,emmc,intel,1.1,open box,windows 10,11.6,intel,101.0,256
+135,lenovo,4,32,32,ssd,mediatek,2.0,good - refurbished,chrome os,11.6,mediatek,69.99,64
+136,hp,8,250,128,ssd,intel,2.5,very good - refurbished,windows 10,14.0,intel,99.99,378
+137,asus,8,512,512,ssd,intel,2.5,new,windows 11,14.0,intel,460.0,1024
+138,dell,16,512,512,ssd,intel,3.6,open box,windows 11,14.0,intel,217.98,1024
+139,lenovo,8,256,256,ssd,intel,1.2,good - refurbished,windows 11,14.0,intel,154.99,512
+140,lenovo,24,1024,1024,ssd,intel,1.9,excellent - refurbished,windows 11,14.0,nvidia,449.99,2048
+141,lenovo,16,512,512,ssd,intel,1.9,certified - refurbished,windows 10,13.0,intel,259.99,1024
+142,dell,16,512,512,ssd,intel,3.4,open box,windows 11,13.3,intel,565.0,1024
+143,dell,32,1024,1024,ssd,intel,1.9,excellent - refurbished,windows 11,15.6,intel,399.99,2048
+144,dell,16,512,512,ssd,intel,1.7,open box,windows 11,14.0,intel,231.99,1024
+145,lenovo,32,1024,1024,ssd,intel,5.0,excellent - refurbished,windows 11,16.0,nvidia,849.99,2048
+146,dell,32,512,512,ssd,intel,2.3,open box,windows 10,14.0,intel,279.47,1024
+147,dell,4,500,500,hdd,intel,2.16,used,windows 11,11.6,intel,84.99,1000
+148,hp,8,128,128,ssd,intel,2.3,good - refurbished,windows 10,14.0,intel,109.0,256
+149,lenovo,16,512,512,ssd,intel,2.7,very good - refurbished,windows 11,15.0,nvidia,379.99,1024
+150,hp,16,512,512,ssd,amd,4.5,new,windows 10,15.6,amd,491.97,1024
+151,hp,16,512,512,ssd,intel,1.9,new,windows 11,15.6,nvidia,649.88,1024
+152,dell,32,1024,1024,ssd,intel,2.8,very good - refurbished,windows 11,17.0,nvidia,799.99,2048
+153,lenovo,8,512,512,ssd,intel,1.8,very good - refurbished,windows 11,14.0,intel,219.99,1024
+154,lenovo,8,256,256,ssd,intel,1.2,new,windows 11,14.0,intel,61.0,512
+155,dell,16,512,0,ssd,intel,1.9,excellent - refurbished,windows 11,14.0,intel,299.99,512
+156,lenovo,16,256,256,ssd,intel,1.9,certified - refurbished,windows 10,15.6,intel,299.99,512
+158,hp,8,256,256,ssd,intel,3.7,new,windows 10,14.0,intel,289.98,512
+159,lenovo,4,64,64,emmc,mediatek,1.1,open box,chrome os,11.6,powervr,114.99,128
+160,lenovo,16,512,512,ssd,intel,5.0,open box,windows 11,16.0,intel,544.44,1024
+161,lenovo,16,512,512,ssd,intel,1.9,certified - refurbished,windows 10,13.0,intel,259.99,1024
+163,hp,8,256,256,ssd,intel,4.1,certified - refurbished,windows 10,15.6,intel,193.0,512
+164,lenovo,12,256,256,ssd,intel,2.4,excellent - refurbished,windows 11,14.0,intel,169.99,512
+165,lenovo,16,500,500,ssd,intel,1.7,open box,windows 11,14.0,intel,298.78,1000
+166,hp,8,250,250,ssd,intel,2.6,good - refurbished,windows 10,13.3,intel,109.0,500
+167,lenovo,16,512,512,ssd,intel,1.7,excellent - refurbished,windows 10,13.3,intel,371.99,1024
+168,lenovo,8,256,256,ssd,intel,1.2,new,windows 11,14.0,intel,384.99,512
+169,lenovo,4,128,128,ssd,intel,1.6,open box,windows 10,11.6,intel,39.0,256
+172,hp,4,64,0,emmc,intel,2.8,very good - refurbished,windows 11,14.0,intel,109.99,64
+173,acer,4,64,64,emmc,intel,1.1,open box,chrome os,15.6,intel,149.99,128
+174,dell,32,1024,1024,ssd,intel,1.6,excellent - refurbished,windows 11,14.0,intel,359.99,2048
+176,dell,32,256,256,ssd,intel,2.5,good - refurbished,windows 11,14.0,intel,169.99,512
+177,dell,32,2048,2048,ssd,intel,4.1,excellent - refurbished,windows 10,15.6,intel,299.99,4096
+178,hp,32,500,500,ssd,intel,2.6,excellent - refurbished,windows 11,14.0,intel,319.99,1000
+179,dell,8,256,256,ssd,intel,1.2,new,windows 10,14.0,intel,248.0,512
+180,hp,16,512,512,nvme,intel,2.4,used,windows 11,15.6,intel,279.99,1024
+181,lenovo,32,512,512,ssd,intel,1.9,excellent - refurbished,windows 11,15.6,nvidia,469.99,1024
+182,dell,4,250,250,hdd,intel,2.4,good - refurbished,windows 10,14.1,intel,109.99,500
+183,asus,8,128,128,ssd,amd,2.4,new,windows 11,15.6,amd,287.0,256
+184,asus,8,512,512,ssd,intel,4.5,new,windows 10,15.6,nvidia,692.75,1024
+185,lenovo,8,512,512,ssd,intel,4.7,open box,windows 11,16.0,intel,455.55,1024
+186,lenovo,8,512,512,ssd,intel,1.6,open box,windows 11,14.0,intel,299.98,1024
+187,dell,4,250,250,hdd,intel,2.26,very good - refurbished,windows 10,14.1,intel,89.99,500
+188,hp,8,500,18,hdd,intel,2.24,used,windows 11,2.0,intel,170.0,518
+189,lenovo,32,2048,2048,ssd,intel,2.6,open box,windows 10,15.6,nvidia,388.0,4096
+190,msi,16,1024,1024,ssd,intel,2.4,new,windows 11,15.6,nvidia,989.0,2048
+191,lenovo,16,512,512,ssd,qualcomm,3.0,excellent - refurbished,windows 11,13.0,qualcomm,419.99,1024
+192,dell,16,256,256,ssd,intel,1.2,new,windows 10,14.0,intel,278.0,512
+193,dell,32,1024,1024,ssd,intel,2.3,open box,windows 11,14.0,intel,299.56,2048
+194,lenovo,8,256,256,ssd,intel,2.4,excellent - refurbished,windows 11,14.0,intel,249.99,512
+195,hp,8,128,128,ufs,intel,1.1,certified - refurbished,chrome os,15.6,intel,212.16,256
+196,dell,32,256,256,ssd,intel,1.9,very good - refurbished,windows 11,14.0,intel,539.99,512
+197,dell,32,1024,1024,ssd,intel,2.3,open box,windows 10,14.0,intel,299.56,2048
+198,lenovo,16,512,512,ssd,intel,5.0,open box,windows 11,16.0,intel,565.55,1024
+199,asus,16,512,512,ssd,intel,2.4,excellent - refurbished,windows 11,16.0,nvidia,999.99,1024
+200,lenovo,4,32,32,emmc,intel,2.4,good - refurbished,chrome os,11.6,intel,79.99,64
+201,lenovo,16,512,512,ssd,intel,1.9,good - refurbished,windows 11,14.0,intel,245.99,1024
+202,lenovo,16,512,512,ssd,intel,1.7,new,windows 11,14.0,intel,412.22,1024
+203,lenovo,16,512,512,ssd,intel,1.6,certified - refurbished,windows 10,13.0,intel,259.99,1024
+204,dell,32,256,256,ssd,intel,2.4,good - refurbished,windows 11,15.6,nvidia,599.99,512
+206,dell,12,256,256,ssd,intel,1.3,good - refurbished,windows 11,15.0,intel,214.99,512
+207,hp,12,512,512,ssd,intel,3.4,certified - refurbished,windows 11,17.3,intel,576.0,1024
+209,hp,16,512,512,ssd,intel,1.6,very good - refurbished,windows 11,14.0,intel,259.99,1024
+210,asus,8,512,512,ssd,amd,3.0,certified - refurbished,windows 11,15.6,amd,306.0,1024
+212,asus,16,1024,1024,ssd,amd,3.2,certified - refurbished,windows 11,15.6,nvidia,790.0,2048
+213,lenovo,16,1024,1024,ssd,intel,5.0,open box,windows 11,16.0,intel,566.45,2048
+214,dell,4,32,16,emmc,intel,1.6,good - refurbished,chrome os,11.6,intel,59.99,48
+215,lenovo,16,512,512,ssd,intel,1.8,good - refurbished,windows 11,14.0,intel,239.99,1024
+216,hp,16,512,512,ssd,intel,4.1,very good - refurbished,windows 10,14.0,intel,239.99,1024
+217,lenovo,16,512,512,ssd,amd,2.9,open box,windows 11,16.0,amd,549.99,1024
+219,hp,8,512,512,ssd,intel,1.3,new,windows 11,14.0,intel,538.74,1024
+221,lenovo,16,512,512,ssd,intel,1.9,certified - refurbished,windows 10,14.0,intel,284.0,1024
+222,dell,16,1024,1024,ssd,intel,3.5,new,windows 11,15.6,intel,519.99,2048
+223,acer,16,1024,1024,ssd,intel,1.4,excellent - refurbished,windows 11,14.0,nvidia,949.99,2048
+224,hp,8,256,256,ssd,intel,4.2,new,windows 10,13.3,intel,399.0,512
+225,alienware,16,1024,1024,ssd,intel,2.2,open box,windows 10,15.6,nvidia,849.0,2048
+228,dell,8,128,128,ssd,intel,1.6,certified - refurbished,windows 10,14.0,intel,169.0,256
+229,samsung,8,512,512,ssd,intel,2.4,new,windows 10,15.6,intel,699.99,1024
+230,dell,16,512,512,ssd,intel,3.6,very good - refurbished,windows 11,14.0,intel,398.99,1024
+231,lenovo,16,512,512,ssd,intel,5.0,new,windows 11,16.0,intel,650.0,1024
+232,lenovo,32,512,512,ssd,intel,1.8,excellent - refurbished,windows 11,13.0,intel,719.99,1024
+233,lenovo,16,512,512,ssd,intel,1.7,excellent - refurbished,windows 11,16.0,intel,899.99,1024
+237,dell,8,256,256,ssd,intel,3.3,excellent - refurbished,windows 11,12.0,intel,999.99,512
+238,dell,64,1024,0,ssd,intel,2.2,very good - refurbished,windows 10,15.6,nvidia,499.99,1024
+239,dell,16,512,512,ssd,intel,1.9,excellent - refurbished,windows 11,14.0,intel,289.99,1024
+240,lenovo,16,256,256,ssd,intel,2.8,good - refurbished,windows 11,14.0,intel,265.99,512
+241,hp,4,500,500,hdd,amd,2.0,for parts or not working,windows 10,15.6,amd,99.99,1000
+242,hp,8,256,256,ssd,amd,2.6,new,windows 10,15.6,amd,287.0,512
+243,dell,40,1024,1024,ssd,intel,4.7,new,windows 11,16.0,intel,799.99,2048
+244,lenovo,4,16,16,emmc,intel,1.83,good - refurbished,chrome os,11.6,intel,46.99,32
+245,dell,8,256,256,ssd,intel,2.3,very good - refurbished,windows 10,14.0,intel,119.99,512
+246,lenovo,12,500,500,ssd,intel,3.0,open box,windows 11,14.0,intel,239.0,1000
+247,hp,32,1024,1024,hdd,intel,5.1,new,windows 11,15.6,nvidia,650.07,2048
+249,dell,32,512,512,ssd,intel,2.6,certified - refurbished,windows 10,15.6,nvidia,499.99,1024
+250,dell,16,500,500,ssd,intel,2.6,excellent - refurbished,windows 11,12.5,intel,249.99,1000
+251,lenovo,16,512,512,ssd,intel,1.7,new,windows 11,14.0,intel,699.95,1024
+252,dell,4,16,16,ssd,intel,1.1,used,chrome os,11.6,intel,21.95,32
+253,lenovo,16,256,256,ssd,intel,1.7,excellent - refurbished,windows 11,14.0,intel,249.99,512
+254,lenovo,8,256,256,ssd,intel,1.7,certified - refurbished,windows 10,13.0,intel,239.99,512
+255,hp,32,1024,512,ssd,intel,4.4,new,windows 11,15.6,nvidia,631.47,1536
+257,dell,8,256,256,ssd,intel,1.9,very good - refurbished,windows 10,15.6,intel,199.99,512
+258,hp,16,512,512,ssd,intel,1.9,excellent - refurbished,windows 11,13.3,intel,249.99,1024
+259,dell,8,512,512,ssd,intel,2.4,good - refurbished,windows 10,14.0,intel,219.99,1024
+260,dell,16,256,256,ssd,intel,2.9,certified - refurbished,windows 10,14.0,intel,269.99,512
+261,dell,16,512,512,ssd,intel,5.2,new,windows 11,15.6,nvidia,996.0,1024
+262,samsung,16,512,512,ssd,intel,1.8,excellent - refurbished,windows 11,15.0,intel,799.99,1024
+263,asus,8,128,128,ssd,intel,1.2,new,windows 11,14.0,intel,254.49,256
+264,lenovo,8,512,512,ssd,intel,1.4,certified - refurbished,windows 10,13.0,intel,849.99,1024
+265,lenovo,16,512,512,ssd,intel,2.1,new,windows 11,15.6,nvidia,658.95,1024
+266,dell,32,512,512,ssd,intel,1.6,excellent - refurbished,windows 11,14.0,intel,269.99,1024
+267,lenovo,32,256,256,ssd,intel,2.6,excellent - refurbished,windows 11,15.0,nvidia,449.99,512
+268,dell,16,512,512,ssd,intel,2.3,open box,windows 10,14.0,intel,249.47,1024
+269,asus,4,64,64,emmc,intel,1.1,very good - refurbished,chrome os,14.0,intel,81.0,128
+271,asus,16,1024,1024,ssd,amd,2.0,new,windows 11,16.0,amd,567.49,2048
+272,hp,8,256,256,ssd,intel,3.1,new,windows 11,17.3,intel,419.99,512
+273,hp,4,32,32,emmc,amd,2.5,very good - refurbished,chrome os,14.0,amd,79.0,64
+274,dell,16,512,512,ssd,intel,2.5,very good - refurbished,windows 11,15.6,intel,279.99,1024
+275,dell,32,512,512,ssd,intel,2.3,excellent - refurbished,windows 11,15.6,intel,389.99,1024
+276,hp,8,512,512,ssd,intel,3.3,new,windows 11,17.3,intel,379.0,1024
+277,lenovo,16,512,512,ssd,intel,3.8,new,windows 11,14.0,intel,859.0,1024
+278,lenovo,32,1024,1024,ssd,intel,2.3,excellent - refurbished,windows 11,15.6,nvidia,999.99,2048
+280,dell,8,512,512,ssd,amd,2.0,excellent - refurbished,windows 11,14.0,amd,419.99,1024
+281,dell,32,1024,1024,ssd,intel,1.7,excellent - refurbished,windows 11,14.0,intel,299.99,2048
+283,lenovo,16,256,256,ssd,intel,1.9,excellent - refurbished,windows 10,13.0,intel,259.99,512
+284,dell,32,500,500,ssd,intel,1.9,excellent - refurbished,windows 11,14.0,intel,349.99,1000
+285,acer,16,512,512,ssd,amd,4.5,new,windows 11,14.0,nvidia,799.95,1024
+286,asus,8,256,256,ssd,intel,1.1,new,windows 11,14.0,intel,345.97,512
+287,dell,32,512,512,ssd,intel,2.6,excellent - refurbished,windows 11,15.0,nvidia,719.99,1024
+288,lenovo,16,512,512,ssd,amd,2.3,open box,windows 10,14.0,amd,299.0,1024
+289,dell,16,512,512,ssd,intel,5.2,new,windows 11,14.0,nvidia,979.0,1024
+290,hp,16,512,512,ssd,intel,1.9,new,windows 11,15.6,nvidia,629.99,1024
+291,hp,4,64,64,emmc,intel,1.1,very good - refurbished,windows 10,14.0,intel,119.99,128
+292,hp,8,256,256,ssd,intel,4.4,certified - refurbished,windows 11,15.6,intel,489.99,512
+294,acer,32,1024,1024,ssd,intel,3.9,new,windows 11,16.0,intel,999.49,2048
+295,msi,32,1024,1024,ssd,amd,3.8,new,windows 11,15.6,nvidia,1049.49,2048
+296,lenovo,16,1024,1024,ssd,intel,1.7,excellent - refurbished,windows 11,13.0,intel,545.99,2048
+297,dell,32,1024,1024,ssd,intel,2.3,excellent - refurbished,windows 11,15.6,intel,549.99,2048
+298,dell,8,256,256,ssd,intel,1.6,very good - refurbished,windows 10,15.6,intel,169.99,512
+300,dell,4,32,32,emmc,intel,1.1,new,chrome os,11.6,intel,145.0,64
+301,lenovo,16,256,256,ssd,intel,1.9,certified - refurbished,windows 10,14.0,intel,345.0,512
+302,lenovo,16,512,1024,hdd,intel,2.6,good - refurbished,windows 10,15.6,nvidia,599.99,1536
+303,hp,16,1024,1024,ssd,amd,2.0,new,windows 11,15.6,amd,419.98,2048
+304,lenovo,8,512,512,ssd,intel,1.3,excellent - refurbished,windows 11,17.3,intel,399.99,1024
+305,hp,16,512,512,ssd,intel,1.5,excellent - refurbished,windows 11,16.0,nvidia,749.95,1024
+306,hp,8,512,512,ssd,intel,2.0,new,windows 11,15.6,nvidia,569.99,1024
+307,dell,8,512,516,ssd,amd,2.9,new,windows 11,15.6,amd,500.0,1028
+308,asus,4,32,32,emmc,intel,1.1,open box,chrome os,11.6,intel,64.99,64
+311,lenovo,16,512,512,ssd,intel,3.0,new,windows 11,14.0,intel,849.99,1024
+312,asus,16,1024,1024,ssd,amd,2.0,very good - refurbished,windows 11,17.3,amd,479.99,2048
+313,asus,4,128,128,ssd,amd,2.4,new,windows 11,14.0,amd,179.95,256
+314,lenovo,32,512,512,ssd,intel,2.8,very good - refurbished,windows 11,14.0,intel,419.0,1024
+315,lenovo,16,512,0,ssd,amd,2.0,open box,windows 11,14.0,amd,549.0,512
+316,acer,4,32,32,emmc,intel,1.1,very good - refurbished,chrome os,11.6,intel,79.99,64
+317,dell,32,2048,2048,ssd,intel,2.4,excellent - refurbished,windows 11,14.0,intel,2000.0,4096
+318,dell,64,1024,1024,ssd,intel,4.1,very good - refurbished,windows 11,15.6,intel,435.0,2048
+319,panasonic,8,256,256,ssd,intel,1.2,used,windows 10,10.1,intel,379.99,512
+320,dell,16,512,512,ssd,intel,2.6,certified - refurbished,windows 10,15.6,nvidia,425.0,1024
+322,dell,32,2048,2048,ssd,intel,2.4,excellent - refurbished,windows 10,14.0,intel,2000.0,4096
+323,acer,4,64,0,emmc,intel,2.8,open box,chrome os,15.6,intel,125.0,64
+324,hp,16,512,512,ssd,intel,4.4,new,windows 11,15.6,intel,499.0,1024
+325,dell,16,256,256,ssd,intel,4.6,new,windows 11,15.6,intel,599.99,512
+326,dell,16,256,256,ssd,intel,3.6,new,windows 11,14.0,intel,759.0,512
+327,dell,16,1024,1024,ssd,intel,3.0,excellent - refurbished,windows 11,14.0,intel,449.99,2048
+328,hp,8,256,256,ssd,amd,2.8,new,windows 11,15.6,amd,349.99,512
+329,hp,16,256,256,ssd,amd,2.3,new,windows 10,14.0,amd,499.0,512
+330,dell,32,1024,1024,ssd,intel,2.8,open box,windows 11,15.0,nvidia,639.25,2048
+331,dell,8,256,256,ssd,intel,4.6,new,windows 11,14.0,intel,679.99,512
+332,dell,16,256,256,ssd,intel,2.1,open box,windows 11,14.0,intel,643.95,512
+333,asus,8,256,256,ssd,intel,1.2,new,windows 11,15.6,intel,299.0,512
+334,asus,16,256,256,ssd,intel,1.8,new,chrome os,14.0,intel,499.99,512
+335,hp,4,16,16,ssd,intel,1.6,good - refurbished,chrome os,11.6,intel,46.99,32
+336,dell,32,1024,1024,ssd,intel,2.7,very good - refurbished,windows 11,15.0,nvidia,469.0,2048
+337,hp,8,256,256,ssd,intel,4.1,new,windows 11,15.6,intel,315.99,512
+338,hp,16,1024,1024,ssd,intel,1.9,new,windows 11,15.6,nvidia,699.99,2048
+339,dell,32,256,256,ssd,intel,3.0,excellent - refurbished,windows 11,14.0,intel,394.99,512
+341,lenovo,32,512,512,ssd,intel,1.8,very good - refurbished,windows 11,13.0,intel,749.99,1024
+342,dell,16,512,512,ssd,intel,1.7,excellent - refurbished,windows 10,14.0,intel,1079.99,1024
+343,asus,4,32,32,emmc,intel,1.1,new,chrome os,11.6,intel,239.0,64
+344,hp,8,512,512,ssd,intel,4.9,certified - refurbished,windows 11,17.3,intel,335.0,1024
+345,lenovo,16,512,512,ssd,intel,1.4,excellent - refurbished,windows 11,14.0,nvidia,999.99,1024
+346,lenovo,16,256,256,ssd,intel,1.8,certified - refurbished,windows 10,14.0,intel,345.0,512
+347,lenovo,8,512,512,ssd,intel,2.4,new,windows 11,15.6,intel,399.99,1024
+348,hp,4,32,32,emmc,amd,1.6,good - refurbished,chrome os,14.0,amd,69.99,64
+350,acer,4,32,32,emmc,intel,1.1,very good - refurbished,chrome os,11.6,intel,74.99,64
+351,dell,16,512,512,ssd,intel,3.0,excellent - refurbished,windows 10,13.3,intel,379.99,1024
+352,lenovo,32,1024,1024,ssd,intel,3.5,certified - refurbished,windows 11,16.0,intel,922.38,2048
+353,lenovo,16,512,512,ssd,intel,2.8,excellent - refurbished,windows 10,14.0,intel,319.0,1024
+354,hp,4,64,64,emmc,intel,1.1,open box,chrome os,14.0,intel,229.99,128
+355,lenovo,16,512,512,ssd,intel,1.3,open box,windows 11,14.0,intel,699.99,1024
+356,hp,8,256,256,ssd,amd,2.1,new,windows 10,17.3,amd,425.0,512
+357,dell,16,1024,1024,hdd,intel,2.8,certified - refurbished,windows 11,15.6,intel,524.34,2048
+359,lenovo,16,512,0,ssd,intel,2.6,new,windows 10,14.0,intel,549.0,512
+361,lenovo,8,512,512,ssd,intel,1.3,new,windows 11,15.6,intel,500.0,1024
+362,acer,4,32,32,ssd,intel,1.01,new,chrome os,11.6,intel,189.95,64
+363,dell,32,1024,1024,ssd,intel,3.7,certified - refurbished,windows 11,16.0,intel,799.0,2048
+364,dell,32,512,512,ssd,intel,2.4,excellent - refurbished,windows 11,15.0,nvidia,955.99,1024
+366,hp,8,256,256,ssd,intel,1.1,open box,windows 11,15.6,intel,349.99,512
+367,hp,4,32,0,emmc,intel,1.1,very good - refurbished,chrome os,14.0,intel,84.99,32
+368,lenovo,16,512,512,ssd,intel,4.4,new,windows 11,14.0,intel,650.0,1024
+370,asus,16,512,512,ssd,intel,4.7,new,windows 11,15.6,nvidia,769.0,1024
+371,asus,4,64,64,emmc,intel,1.1,open box,chrome os,15.0,intel,124.99,128
+373,asus,16,1024,1024,ssd,intel,3.8,new,windows 11,15.6,nvidia,999.49,2048
+374,dell,32,512,512,ssd,intel,2.2,excellent - refurbished,windows 11,15.0,nvidia,819.99,1024
+375,acer,4,64,0,emmc,intel,2.8,new,chrome os,15.6,intel,204.99,64
+376,dell,8,256,256,ssd,intel,1.8,good - refurbished,windows 10,14.0,intel,255.0,512
+377,asus,4,64,64,ssd,intel,1.1,new,chrome os,14.0,intel,135.0,128
+379,dell,4,500,500,hdd,amd,1.8,new,windows 10,11.6,amd,219.97,1000
+380,acer,8,256,256,ssd,intel,2.5,new,windows 10,15.6,nvidia,699.99,512
+381,dell,16,512,512,ssd,intel,1.7,open box,windows 11,15.6,intel,749.99,1024
+383,dell,4,16,16,ssd,intel,1.4,open box,chrome os,13.0,intel,140.0,32
+384,lenovo,4,128,128,ssd,intel,2.0,certified - refurbished,windows 11,15.6,intel,229.0,256
+385,asus,16,1024,1024,ssd,amd,3.2,new,windows 11,15.6,nvidia,947.49,2048
+386,hp,8,256,256,ssd,amd,2.4,new,windows 11,15.6,amd,369.49,512
+389,asus,4,32,32,emmc,intel,1.1,open box,chrome os,11.6,intel,99.99,64
+390,dell,16,1024,1024,ssd,amd,1.8,open box,windows 11,15.6,amd,529.99,2048
+391,dell,8,256,256,ssd,intel,2.4,used,windows 11,14.0,intel,199.0,512
+394,dell,8,256,256,ssd,intel,2.6,certified - refurbished,windows 10,15.6,intel,229.0,512
+395,dell,8,256,256,ssd,intel,1.7,used,windows 11,14.0,intel,185.0,512
+396,lenovo,16,256,256,ssd,intel,1.3,new,windows 11,16.0,intel,902.14,512
+397,hp,4,64,64,emmc,amd,1.2,new,windows 10,14.0,amd,289.99,128
+398,dell,16,512,512,ssd,intel,4.7,certified - refurbished,windows 11,16.0,nvidia,703.05,1024
+400,dell,8,256,256,ssd,intel,1.6,used,windows 11,14.0,intel,230.0,512
+401,lenovo,12,256,256,ssd,intel,2.6,very good - refurbished,windows 10,14.0,intel,214.99,512
+404,dell,128,1024,1024,ssd,intel,2.4,used,windows 10,17.3,nvidia,1399.0,2048
+405,hp,4,32,32,emmc,intel,1.1,open box,chrome os,14.0,intel,169.99,64
+406,hp,4,128,128,ssd,intel,1.1,open box,windows 10,14.0,intel,249.99,256
+407,lenovo,16,1024,1024,ssd,intel,1.8,excellent - refurbished,windows 11,14.0,intel,849.99,2048
+408,samsung,4,32,32,emmc,intel,1.1,open box,chrome os,11.6,intel,125.0,64
+409,hp,4,256,256,ssd,amd,2.4,open box,windows 10,15.6,amd,279.99,512
+410,dell,32,512,512,ssd,intel,1.6,excellent - refurbished,windows 10,14.0,intel,599.99,1024
